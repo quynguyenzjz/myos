@@ -1,6 +1,6 @@
 # MyOS
 
-A simple operating system written in C++.
+A simple 64-bit AMDx64 operating system written in C++.
 
 ## Prerequisites
 
