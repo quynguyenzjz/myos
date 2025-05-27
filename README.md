@@ -26,7 +26,7 @@ A simple 64-bit AMDx64 operating system written in C++.
 ### Linux Setup
 1. Install NASM from: https://www.nasm.us/
 2. Install QEMU from: https://www.qemu.org/download/
-3. Install MinGW for Make utilities
+3. Install other build-tools
 4. Set up the cross-compiler (detailed instructions below)
 
 ### Cross-Compiler Setup
