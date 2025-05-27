@@ -23,7 +23,7 @@ A simple 64-bit AMDx64 operating system written in C++.
 
 ## Setting Up the Development Environment
 
-### Windows Setup
+### Linux Setup
 1. Install NASM from: https://www.nasm.us/
 2. Install QEMU from: https://www.qemu.org/download/
 3. Install MinGW for Make utilities
