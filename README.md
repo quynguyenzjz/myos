@@ -57,4 +57,4 @@ This OS is currently in early development stages.
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the GNU v3 License. 
